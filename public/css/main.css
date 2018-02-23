@@ -52,12 +52,12 @@ a {
   width: 200px;
   margin: 0 auto;
   position: absolute;
-  top: -20px;
+  top: -2px;
   left: 25%;
 }
 
 .logo {
-  width: 200px;
+  width: 140px;
   height: 140px;
 }
 .logo img {
